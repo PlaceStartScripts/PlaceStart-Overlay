@@ -35,10 +35,6 @@
         }
   ],
   "whitelist": [
-    {
-      "name": "April Knights",
-      "url": "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsjson.json"
-    }
   ],
   "blacklist": [
   ]
