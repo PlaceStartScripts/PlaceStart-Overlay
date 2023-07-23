@@ -1,0 +1,46 @@
+{
+  "contact": "https://discord.gg/eDUuJYhjZY",
+  "templates": [
+        {
+            "name": "r/PlaceStart Official Logo",
+            "sources": [
+                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart2000x2000_1.png"
+            ],
+            "x": 0,
+            "y": 1966
+        },
+        {
+            "name": "r/PlaceStart Official Logo",
+            "sources": [
+                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart2000x2000_2.png"
+            ],
+            "x": 500,
+            "y": 1966
+        },
+        {
+            "name": "r/PlaceStart Official Logo",
+            "sources": [
+                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart2000x2000_3.png"
+            ],
+            "x": 1000,
+            "y": 1966
+        },
+        {
+            "name": "r/PlaceStart Official Logo",
+            "sources": [
+                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart2000x2000_4.png"
+            ],
+            "x": 1500,
+            "y": 1966
+        }
+  ],
+  "whitelist": [
+    {
+      "name": "April Knights",
+      "url": "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsjson.json"
+    }
+  ],
+  "blacklist": [
+  ]
+}
+ 
