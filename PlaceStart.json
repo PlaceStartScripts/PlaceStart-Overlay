@@ -4,7 +4,7 @@
         {
             "name": "r/PlaceStart Official Logo",
             "sources": [
-                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart2500x2000_1.png"
+                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart_2023_1.png"
             ],
             "x": 0,
             "y": 1966
@@ -12,7 +12,7 @@
         {
             "name": "r/PlaceStart Official Logo",
             "sources": [
-                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart2500x2000_2.png"
+                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart_2023_2.png"
             ],
             "x": 500,
             "y": 1966
@@ -20,7 +20,7 @@
         {
             "name": "r/PlaceStart Official Logo",
             "sources": [
-                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart2000x2000_2.png"
+                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart_2023_3.png"
             ],
             "x": 1000,
             "y": 1966
@@ -28,7 +28,7 @@
         {
             "name": "r/PlaceStart Official Logo",
             "sources": [
-                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart2500x2000_3.png"
+                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart_2023_4.png"
             ],
             "x": 1500,
             "y": 1966
@@ -36,7 +36,7 @@
         {
             "name": "r/PlaceStart Official Logo",
             "sources": [
-                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart2000x2000_4.png"
+                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/PlaceStart_2023_5.png"
             ],
             "x": 2000,
             "y": 1966
@@ -44,7 +44,7 @@
         {
             "name": "r/PlaceStart Official Logo",
             "sources": [
-                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart3000x2000_5.png"
+                "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart_2023_6.png"
             ],
             "x": 2500,
             "y": 1840
